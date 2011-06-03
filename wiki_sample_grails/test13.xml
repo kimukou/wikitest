@@ -21,6 +21,11 @@ detected.
   <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
   <Set name="contextPath">/test13</Set>
   <Set name="resourceBase">D:\workspace\test13\test13</Set>
+  <Set name="tempDirectory">D:\workspace\test13\tmp</Set>
+
+  <!-- SEE REFERENCE 
+    HTTP://JETTY.CODEHAUS.ORG/JETTY/JETTY-6/APIDOCS/ORG/MORTBAY/JETTY/WEBAPP/WEBAPPCONTEXT.HTML 
+  -->
 
   <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
   <!-- Optional context configuration                                  -->
